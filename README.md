@@ -9,5 +9,8 @@ For Navigation:
  1. @react-navigation/native
  2. @react-navigation/stack
 ```
-## API used:
+## API used
 Covid API: [https://api.covid19api.com/summary](https://api.covid19api.com/summary)
+
+## APK File
+[Download Here](https://drive.google.com/file/d/1vzZzgNIQGulS4j2cLJ4XEG_OTnIVHEao/view?usp=sharing)
